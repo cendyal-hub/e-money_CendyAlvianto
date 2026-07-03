@@ -14,7 +14,7 @@ Dompet Kampus Global adalah aplikasi e-money (dompet digital) yang dirancang unt
 
 | Dashboard | TopUp |
 |:---:|:---:|
-| <img src="assets/images/Homescreen.png" width="250"> | <img src="assets/images/topup.png" width="250"> |
+| <img src="assets/images/homescreen.png" width="250"> | <img src="assets/images/topup.png" width="250"> |
 
 | Notif Topup | Payment |
 |:---:|:---:|
