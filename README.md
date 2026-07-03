@@ -4,17 +4,25 @@ Dompet Kampus Global adalah aplikasi e-money (dompet digital) yang dirancang unt
 
 ## 📸 Hasil Screenshot (Preview)
 
-| Login / Register | Home / Dashboard |
+| HomePage | Register |
 |:---:|:---:|
-| <img src="assets/images/form-login.png" width="250"> | <img src="assets/images/Homepage.png" width="250"> |
+| <img src="assets/images/Homepage.png" width="250"> | <img src="assets/images/form-regist.png" width="250"> |
 
-| Top Up / Transfer | Notif Sukses Payment |
+| Login | OTP |
 |:---:|:---:|
-| <img src="assets/images/topup.png" width="250"> | <img src="assets/images/notif-sukses-payment.png" width="250"> |
+| <img src="assets/images/form-login.png" width="250"> | <img src="assets/images/otp.png" width="250"> |
 
-| Pembayaran | PIN Pembayaran |
+| Dashboard | TopUp |
 |:---:|:---:|
-| <img src="assets/images/payment.png" width="250"> | <img src="assets/images/pin-payment.png" width="250"> |
+| <img src="assets/images/Homescreen.png" width="250"> | <img src="assets/images/topup.png" width="250"> |
+
+| Notif Topup | Payment |
+|:---:|:---:|
+| <img src="assets/images/sukses-topup.png" width="250"> | <img src="assets/images/payment.png" width="250"> |
+
+| PIN | Notif Payment |
+|:---:|:---:|
+| <img src="assets/images/pin-payment.png" width="250"> | <img src="assets/images/notif-sukses-payment.png" width="250"> |
 
 ---
 
