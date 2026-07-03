@@ -6,11 +6,11 @@ Dompet Kampus Global adalah aplikasi e-money (dompet digital) yang dirancang unt
 
 | HomePage | Register |
 |:---:|:---:|
-| <img src="assets/images/Homepage.png" width="250"> | <img src="assets/images/form-regist.png" width="250"> |
+| <img src="assets/images/Homepage.png" width="250"> | <img src="assets/images/form-login.png" width="250"> |
 
 | Login | OTP |
 |:---:|:---:|
-| <img src="assets/images/form-login.png" width="250"> | <img src="assets/images/otp.png" width="250"> |
+| <img src="assets/images/form-regist.png" width="250"> | <img src="assets/images/otp.png" width="250"> |
 
 | Dashboard | TopUp |
 |:---:|:---:|
