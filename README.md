@@ -12,7 +12,7 @@ Dompet Kampus Global adalah aplikasi e-money (dompet digital) yang dirancang unt
 |:---:|:---:|
 | <img src="assets/images/topup.png" width="250"> | <img src="assets/images/notif-sukses-payment.png" width="250"> |
 
-| Integrasi Pembayaran (Deep Link) | PIN Pembayaran |
+| Pembayaran | PIN Pembayaran |
 |:---:|:---:|
 | <img src="assets/images/payment.png" width="250"> | <img src="assets/images/pin-payment.png" width="250"> |
 
@@ -41,7 +41,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi Dompet Kampus Global di
 ### 1. Clone Repository
 Buka terminal dan jalankan perintah clone untuk mengunduh kode sumber proyek ini:
 ```bash
-git clone [Masukkan Link Repository Github Dompet Kampus di Sini]
+git clone https://github.com/cendyal-hub/e-money_CendyAlvianto
 ```
 
 ### 2. Masuk ke Direktori Proyek
@@ -67,8 +67,6 @@ flutter run
 ## 🏗️ Struktur Arsitektur Singkat
 Aplikasi ini dibangun menggunakan arsitektur modular yang terstruktur, dengan state management menggunakan `BLoC`/`Provider` (sesuaikan). Beberapa fitur utamanya antara lain:
 - **Autentikasi**: Sistem login dan pendaftaran pengguna.
-- **Transaksi**: Fitur *Top Up* untuk menambah saldo dan *Transfer* ke sesama pengguna.
 - **Deep Linking**: Memungkinkan aplikasi pihak ketiga (seperti aplikasi Marketplace) untuk memanggil aplikasi ini pada saat proses *Checkout/Payment*.
 
 ---
-*Dibuat untuk Project Akhir / UAS Pemrograman Mobile.*
